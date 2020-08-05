@@ -53,3 +53,7 @@ ehthumbs.db
 # Windows shortcuts #
 #####################
 *.lnk
+
+# Secrets #
+############
+.env
